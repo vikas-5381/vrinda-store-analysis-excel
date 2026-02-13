@@ -109,7 +109,7 @@ vrinda-store-analysis/
   - Sales distribution by gender and age group
   - Orders by different sales channels
   - Order status breakdown (Delivered, Cancelled, Returned, Refunded)
-  ![Vrinda Store Dashboard](images/dashboard.png)
+  ![Vrinda Store Dashboard]("Vrinda Store Analysis_exl\image\Vrinda Store Analysis_snip.png")
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -129,7 +129,7 @@ python scripts/get_vendor_summary.py
 5. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
+6. Open Excel Dashboard:
    - `dashboard/vendor_performance_dashboard.pbix`
 
 ---
@@ -147,4 +147,4 @@ python scripts/get_vendor_summary.py
 Data Analyst  
 📧 Email: vikassiddheshware2001@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware)  
-🔗 [Portfolio]
+
