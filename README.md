@@ -116,22 +116,23 @@ vrinda-store-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+[https://github.com/vikas-5381/vrinda-store-analysis-excel]
+```
+2.Open the tool:
+```bash
+Open Excel data tool
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.py
+Vrinda Store Data_Set.xlsx
 ```
 4. Create vendor summary table:
 ```bash
-python scripts/get_vendor_summary.py
+Vrinda Store Data_Set_summary.py
 ```
 5. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Excel Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
-
+   - `Vrinda Store Data Analysis_exl.xlsx`
+   - 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
