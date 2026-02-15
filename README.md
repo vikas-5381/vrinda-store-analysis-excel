@@ -22,7 +22,7 @@ _An interactive Excel dashboard that provides a comprehensive overview of sales 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This  dashboard  analyzes Vrinda Store’s annual sales data to track performance, customer trends, top states, sales channels, and order status and helping the business make better data-driven decisions.
+This  dashboard  analyzes Vrinda Store’s annual sales data to track performance, customer trends, top states, sales channels, and order status and helping the business make better data-driven decisions. 
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
