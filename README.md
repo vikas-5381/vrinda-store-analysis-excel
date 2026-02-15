@@ -40,7 +40,7 @@ Here is the business problem explained in clear points:
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - Multiple CSV files located in `/data/` folder (sales, vrinda, inventory)
-- Summary table created from ingested data and used for analysis
+- Summary table created from ingested data and used for analysis 
 
 ---
 
@@ -49,7 +49,7 @@ Here is the business problem explained in clear points:
 - Microsoft Excel
 - Pivot Tables
 - Charts & Graphs
-- GitHub
+- GitHub 
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
