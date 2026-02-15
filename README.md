@@ -6,8 +6,8 @@ _An interactive Excel dashboard that provides a comprehensive overview of sales 
 ---
 
 ## 📌 Table of Contents
-- <a href="#overview">Overview</a>
-- <a href="#business-problem">Business Problem</a>
+- <a href="#overview">Overview</a> 
+- <a href="#business-problem">Business Problem</a> 
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
