@@ -109,7 +109,7 @@ vrinda-store-analysis/
   - Sales distribution by gender and age group
   - Orders by different sales channels
   - Order status breakdown (Delivered, Cancelled, Returned, Refunded)
-  ![Vrinda Store Dashboard]("Vrinda Store Analysis_exl\image\Vrinda Store Analysis_snip.png")
+  [(https://github.com/vikas-5381/vrinda-store-analysis-excel/blob/main/Vrinda%20Store%20Analysis_snip.png)]
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
