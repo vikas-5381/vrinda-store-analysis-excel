@@ -8,7 +8,7 @@ _An interactive Excel dashboard that provides a comprehensive overview of sales 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>  
 - <a href="#business-problem">Business Problem</a> 
-- <a href="#dataset">Dataset</a>
+- <a href="#dataset">Dataset</a> 
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
@@ -39,7 +39,7 @@ Here is the business problem explained in clear points:
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vrinda, inventory)
+- Multiple CSV files located in `/data/` folder (sales, vrinda, inventory) 
 - Summary table created from ingested data and used for analysis 
 
 ---
