@@ -84,7 +84,7 @@ vrinda-store-analysis/
 
 **Outliers Identified:**
 - Found unusually high or low sales values.
-- Confirmed whether they were real transactions or mistakes.
+- Confirmed whether they were real transactions or mistakes. 
 
 **Correlation Analysis:**
 - Analyzed the relationship between orders and sales.
