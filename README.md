@@ -79,7 +79,7 @@ vrinda-store-analysis/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
-- Checked for zero or negative sales values.
+- Checked for zero or negative sales values. 
 - Verified if they were valid (returns/refunds) or data errors.
 
 **Outliers Identified:**
